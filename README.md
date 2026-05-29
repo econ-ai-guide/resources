@@ -79,16 +79,16 @@ For economists interested in the intersection of economic theory and AI safety, 
 | Program | Description | Link |
 |---------|-------------|------|
 | **BlueDot Impact** | Online course providing foundational knowledge in AI safety principles. Good starting point. | [bluedot.org](https://bluedot.org/) |
-| **MATS** (ML Alignment Theory Scholars) | Competitive fellowship pairing researchers with mentors at leading alignment labs. | [matsprogram.org](https://www.matsprogram.org/) |
+| **MATS** (ML Alignment & Theory Scholars) | Competitive fellowship pairing researchers with mentors at leading alignment labs. | [matsprogram.org](https://www.matsprogram.org/) |
 | **PrincInt** (Principles of Intelligence) | Summer fellowship for researchers applying insights from social science and biology to AI safety. Formerly PIBBSS. | [princint.ai](https://princint.ai/) |
 | **PIVOTAL** | Fellowship program for AI safety research. | [pivotal-research.org](https://www.pivotal-research.org/) |
-| **Constellation** | Astra Fellowship supporting independent AI safety research. | [constellation.org](https://www.constellation.org/programs/astra-fellowship) |
+| **Constellation** | Astra Fellowship supporting independent AI safety research. | [constellation.org](https://www.constellation.org/programs/astra) |
 | **LASR** (London AI Safety Research Labs) | 13-week research program in London. Small teams produce an AI safety paper with expert supervision. | [lasrlabs.org](https://www.lasrlabs.org/) |
 | **Anthropic Fellowship** | Fellowship at Anthropic for safety-focused research. | [anthropic.com](https://alignment.anthropic.com/2024/anthropic-fellows-program/) |
 | **ARENA** (AI Research Experience for Academics and Newcomers) | Structured program for researchers transitioning into AI. | [arena.education](https://www.arena.education/) |
 | **GovAI Summer Fellowship** | Summer fellowship at the Centre for the Governance of AI, Oxford. Relevant for economists working on compute governance and mechanism design for AI regulation. | [governance.ai](https://www.governance.ai/opportunities) |
 | **AI Safety Camp** | Collaborative research program where small teams work on focused AI safety projects over several months. Multiple cohorts per year. | [aisafety.camp](https://aisafety.camp/) |
-| **SPAR** (Supervised Program for Alignment Research) | Semester-long, virtual, part-time mentored alignment research. Lower commitment than MATS or PrincInt. | [sparai.org](https://sparai.org/) |
+| **SPAR** (Supervised Program for Alignment Research) | Semester-long, virtual, part-time mentored alignment research, run under the Kairos AI Project. Lower commitment than MATS or PrincInt. | [sparai.org](https://sparai.org/) |
 | **CAIRF** (Cooperative AI Research Fellowship) | 3-month in-person fellowship in Cape Town. Tracks in multi-agent safety, cooperative AI, and gradual disempowerment. | [cai-research-fellowship.com](https://www.cai-research-fellowship.com/) |
 
 ---
